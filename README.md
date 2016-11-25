@@ -1,0 +1,2 @@
+# topgun
+variable triggers
